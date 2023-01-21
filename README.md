@@ -1,3 +1,5 @@
+> Try it out: https://from.furret.dev/to/replit
+
 # Cloudflare Workers Template
 
 This template makes it easy to build and run [Cloudflare Workers](https://developers.cloudflare.com/workers/), which can be published to the [Cloudflare Global Network](https://www.cloudflare.com/network/), or run directly from Replit using `wrangler dev` (no Cloudflare account required.) In the future, `wrangler dev` will be powered by [Workerd](https://github.com/cloudflare/workerd), our Open-Source Workers runtime.
