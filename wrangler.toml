@@ -1,0 +1,7 @@
+name = "from"
+main = "src/index.ts"
+compatibility_date = "2023-01-21"
+
+kv_namespaces = [
+	{ binding = "REDIRECTS", id = "9830747408b44cd589ca8f7ecc1fff72", preview_id = "671141deb4044639bceb031975ab9cd3" }
+]
